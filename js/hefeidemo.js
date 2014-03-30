@@ -334,18 +334,21 @@ var updateLocations = function(attributesArr){
 		$.each(attributesArr, function(index, value){
 			var id = value.identifier.replace(/\./g,"-");
 			if(id.indexOf("receiver") >= 0){
-				return;
+				return true;
 			}
 			var temp = Math.round(value.attributes[0].data);
 			var ts = new moment(value.attributes[0].creationDate).toDate();
 			$.each(value.attributes,function(aIndex, aValue){
-				if(typeof tempLocations[id] == 'undefined'){
-					tempLocations[id] = {};
-				}
 				if("location.xoffset" == aValue.attributeName){
+					if(typeof tempLocations[id] == 'undefined'){
+						tempLocations[id] = {};
+					}
 					tempLocations[id]['left'] = 60+Math.round(aValue.data * (imageDims['x']/regionDims['x']));
 				}
 				else if ("location.yoffset" == aValue.attributeName){
+					if(typeof tempLocations[id] == 'undefined'){
+						tempLocations[id] = {};
+					}
 					tempLocations[id]['top'] = Math.round(imageDims['y'] - 20-(aValue.data * (imageDims['y']/regionDims['y'])));
 				}
 		
