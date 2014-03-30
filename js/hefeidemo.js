@@ -137,10 +137,10 @@ var pollSlow = function() {
 			$.getJSON("http://210.45.250.3:7011/grailrest/snapshot?q=Hefei.*&a=location.*&cb=?",
 				function(data){
 					updateLocations(data);
-				});
-			$.getJSON("http://210.45.250.3:7011/grailrest/snapshot?q=Hefei.*&a=temperature.celsius&cb=?",
-				function(data){
-					updateTemp(data);
+					$.getJSON("http://210.45.250.3:7011/grailrest/snapshot?q=Hefei.*&a=temperature.celsius&cb=?",
+						function(data){
+							updateTemp(data);
+						});
 				});
 			if(firstLoad){
 				firstLoad = false;
@@ -343,12 +343,15 @@ var updateLocations = function(attributesArr){
 					if(typeof tempLocations[id] == 'undefined'){
 						tempLocations[id] = {};
 					}
+/*					console.log('60 + ('+aValue.data + " * (" + imageDims['x'] + "/" + regionDims['x'] + "))"); */
 					tempLocations[id]['left'] = 60+Math.round(aValue.data * (imageDims['x']/regionDims['x']));
+/*					console.log(tempLocations); */
 				}
 				else if ("location.yoffset" == aValue.attributeName){
 					if(typeof tempLocations[id] == 'undefined'){
 						tempLocations[id] = {};
 					}
+/*					console.log(imageDims['y'] + " - 20 - (" +aValue.data + " * (" + imageDims['y'] + "/" + regionDims['x'] + "))"); */
 					tempLocations[id]['top'] = Math.round(imageDims['y'] - 20-(aValue.data * (imageDims['y']/regionDims['y'])));
 				}
 		
