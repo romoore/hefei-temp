@@ -1,0 +1,46 @@
+.room-boundary {
+	position: absolute;
+	/* Required for IE 5, 6, 7 */
+	/* ...or something to trigger hasLayout, like zoom: 1; */
+	/* width: 100%; */
+		
+	/* Theoretically for IE 8 & 9 (more valid) */	
+	/* ...but not required as filter works too */
+	/* should come BEFORE filter */
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=30);
+	
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.3;
+	
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.3;
+    
+	/* Modern!
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.3;
+/* Gray */
+/*	background: #333; */
+/*	background: #f00;*/
+	z-index: 10;
+	display: none;
+}
+
+#room-float {
+	left: 0px;
+	top: -4em;
+	width: 50px;
+	height: 4em;
+	vertical-align: bottom;
+}
+
+#room-154B {
+	left: 2px;
+	top: 51px;
+	width: 39px;
+	height: 60px;
+}

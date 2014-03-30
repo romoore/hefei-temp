@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="legend.svg"
+   inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+   inkscape:export-xdpi="115.6"
+   inkscape:export-ydpi="115.6">
+  <defs
+     id="defs4">
+    <filter
+       id="filter5825"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5827"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       id="linearGradient4046-7-8">
+      <stop
+         style="stop-color:#ffd543;stop-opacity:1;"
+         offset="0"
+         id="stop4048-3-7" />
+      <stop
+         style="stop-color:#ffeca9;stop-opacity:1;"
+         offset="1"
+         id="stop4050-0-3" />
+    </linearGradient>
+    <filter
+       id="filter5821"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5823"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3924-2-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3926-3-4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.73359073"
+         offset="1"
+         id="stop3928-2-4" />
+    </linearGradient>
+    <filter
+       id="filter5312-5"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5314-4"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter5817"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5819"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter5813"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5815"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       id="linearGradient4046-7-8-7">
+      <stop
+         style="stop-color:#ffd543;stop-opacity:1;"
+         offset="0"
+         id="stop4048-3-7-5" />
+      <stop
+         style="stop-color:#ffeca9;stop-opacity:1;"
+         offset="1"
+         id="stop4050-0-3-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3924-2-3-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3926-3-4-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.73359073"
+         offset="1"
+         id="stop3928-2-4-6" />
+    </linearGradient>
+    <filter
+       id="filter5312-5-7"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5314-4-2"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       id="linearGradient3798-9-5-7">
+      <stop
+         style="stop-color:#fff613;stop-opacity:0.89019608;"
+         offset="0"
+         id="stop3800-0-3-6" />
+      <stop
+         id="stop5894"
+         offset="1"
+         style="stop-color:#979494;stop-opacity:0.65384614;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4046-7-8-7-9">
+      <stop
+         style="stop-color:#ffd543;stop-opacity:1;"
+         offset="0"
+         id="stop4048-3-7-5-7" />
+      <stop
+         style="stop-color:#ffeca9;stop-opacity:1;"
+         offset="1"
+         id="stop4050-0-3-3-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3924-2-3-6-2">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3926-3-4-7-6" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.73359073"
+         offset="1"
+         id="stop3928-2-4-6-8" />
+    </linearGradient>
+    <filter
+       id="filter5312-5-7-6"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix5314-4-2-5"
+         type="saturate"
+         values="0" />
+    </filter>
+    <linearGradient
+       id="linearGradient3798-9-5-7-0">
+      <stop
+         style="stop-color:#fff700;stop-opacity:0.89019608;"
+         offset="0"
+         id="stop3800-0-3-6-5" />
+      <stop
+         id="stop5898"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.33725491;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4046-7-8-7"
+       id="linearGradient4539"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96704083,0,0,0.96704083,58.222402,460.77948)"
+       spreadMethod="reflect"
+       x1="23.40028"
+       y1="36"
+       x2="29.724415"
+       y2="35.964287" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3924-2-3-6"
+       id="linearGradient4541"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(57.312204,459.58941)"
+       x1="17.791662"
+       y1="6.1938319"
+       x2="45.429878"
+       y2="33.336689" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-9-5-7"
+       id="radialGradient4543"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97215898,-0.0261776,0.02806839,1.0423778,57.561804,459.52955)"
+       cx="27.540609"
+       cy="18.424973"
+       fx="27.540609"
+       fy="18.424973"
+       r="12.464721" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4046-7-8-7-9"
+       id="linearGradient4545"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96704083,0,0,0.96704083,57.212249,315.31751)"
+       spreadMethod="reflect"
+       x1="23.40028"
+       y1="36"
+       x2="29.724415"
+       y2="35.964287" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3924-2-3-6-2"
+       id="linearGradient4547"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.302051,314.12745)"
+       x1="17.791662"
+       y1="6.1938319"
+       x2="45.429878"
+       y2="33.336689" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-9-5-7-0"
+       id="radialGradient4549"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.2387121,56.302051,309.72918)"
+       cx="27.540609"
+       cy="18.424973"
+       fx="27.540609"
+       fy="18.424973"
+       r="12.464721" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4046-7-8"
+       id="linearGradient4551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96704083,0,0,0.96704083,176.41025,316.32766)"
+       spreadMethod="reflect"
+       x1="23.40028"
+       y1="36"
+       x2="29.724415"
+       y2="35.964287" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3924-2-3"
+       id="linearGradient4553"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(175.50005,315.1376)"
+       x1="17.791662"
+       y1="6.1938319"
+       x2="45.429878"
+       y2="33.336689" />
+    <filter
+       id="filter5071"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5073"
+         flood-opacity="0.75"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5075"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5077"
+         in="composite"
+         stdDeviation="1.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5079"
+         dx="1.2"
+         dy="1.2"
+         result="offset" />
+      <feComposite
+         id="feComposite5081"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5083"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5085"
+         flood-opacity="0.75"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5087"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5089"
+         in="composite"
+         stdDeviation="1.5"
+         result="blur" />
+      <feOffset
+         id="feOffset5091"
+         dx="1.2"
+         dy="1.2"
+         result="offset" />
+      <feComposite
+         id="feComposite5093"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="423.88137"
+     inkscape:cy="861.72444"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="958"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4740" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.14199996000000015;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4743"
+       width="467.14285"
+       height="466.42856"
+       x="19.885645"
+       y="25.357431"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6" />
+  </g>
+  <g
+     inkscape:label="Temperature"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4507"
+       transform="translate(8.8477121,31.314728)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <g
+         transform="matrix(1.9063295,0,0,1.9063295,-105.82436,-556.6823)"
+         id="g4137">
+        <path
+           style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;display:inline;filter:url(#filter5825)"
+           d="m 197.17862,346.85189 c 2.81159,-2.8116 9.11698,-2.8116 11.92857,0 -1.1e-4,0.5372 0.21409,1.30167 -1.3217,1.96428 1.85698,0.62294 1.67835,3.06063 -1.7e-4,3.78572 1.46434,0.66965 1.32163,2.06499 1.32187,3.03571 -2.81159,2.81159 -9.11698,2.81159 -11.92857,0 -0.007,-0.58615 -0.4415,-1.32576 1.05426,-1.85702 -1.44706,-0.68342 -1.51864,-2.76448 0.0291,-3.32164 -1.49625,-0.73371 -1.09546,-2.63392 -1.08335,-3.60705 z"
+           id="path4018-14-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+        <path
+           style="fill:url(#linearGradient4551);fill-opacity:1;stroke:none;display:inline;filter:url(#filter5821)"
+           d="m 197.37431,346.99667 c 2.71893,-2.71892 8.8165,-2.71892 11.53542,0 -1.1e-4,0.5195 0.20703,1.25877 -1.27814,1.89954 1.79577,0.60241 1.62303,2.95976 -1.6e-4,3.66095 1.41607,0.64758 1.27806,1.99693 1.2783,2.93566 -2.71892,2.71892 -8.81649,2.71892 -11.53542,0 -0.007,-0.56683 -0.42694,-1.28206 1.01951,-1.79582 -1.39937,-0.66089 -1.46858,-2.67336 0.0281,-3.21216 -1.44693,-0.70953 -1.05935,-2.54711 -1.04764,-3.48817 z"
+           id="path4018-1-2-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+        <path
+           id="path2999-4-4-3"
+           style="color:#000000;fill:none;stroke:url(#linearGradient4553);stroke-width:1.05509925;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5312-5);enable-background:accumulate"
+           d="m 192.21212,330.79206 c 0,-6.11851 4.71003,-11.07854 10.82854,-11.07854 6.11851,0 10.82601,4.96003 10.82601,11.07854 0,2.6039 -0.84784,4.69493 -2.51029,6.77851 -1.87839,2.82653 -2.38745,3.82077 -2.90755,5.84769 -0.24331,0.94823 -0.47847,2.72387 -1.07687,3.26479 -1.57614,1.42472 -7.84422,1.0364 -8.71315,-0.20904 -0.48626,-0.69697 -0.82646,-1.81612 -1.15585,-2.75796 -0.70229,-2.00807 -1.08612,-3.54211 -2.86602,-6.27102 -1.61135,-2.07371 -2.42482,-4.12132 -2.42482,-6.65297 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscsssscs"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+        <path
+           id="path2999-1-3"
+           style="color:#000000;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.13315642;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 191.14252,330.58709 c 0,-6.57116 5.32698,-11.89814 11.89814,-11.89814 6.57116,0 11.89814,5.32698 11.89814,11.89814 0,2.79654 -0.9648,5.36774 -2.75024,7.60546 -2.01736,3.03564 -2.3471,4.15768 -2.90568,6.33456 -0.26131,1.01838 -0.51386,2.32869 -1.15654,2.90962 -1.69274,1.53013 -9.29244,1.16733 -10.22566,-0.17026 -0.52224,-0.74852 -0.73144,-1.60253 -1.0852,-2.61405 -0.75425,-2.15664 -1.11882,-3.68251 -3.0304,-6.61331 -1.73055,-2.22713 -2.64256,-4.73307 -2.64256,-7.45202 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscsssscs"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+        <path
+           style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline;filter:url(#filter5817)"
+           d="m 207.72471,352.56494 c -1.8401,0.13562 -7.2739,-0.79115 -9.25559,-1.98262 0.6451,1.73218 7.30306,2.57263 9.25559,1.98262 z"
+           id="path4236-58-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+        <path
+           style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline;filter:url(#filter5813)"
+           d="m 207.72471,355.78007 c -1.8401,0.13562 -7.2739,-0.79115 -9.25559,-1.98262 0.6451,1.73217 7.30306,2.57263 9.25559,1.98262 z"
+           id="path4236-5-9-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc"
+           inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+           inkscape:export-xdpi="144.36"
+           inkscape:export-ydpi="144.36" />
+      </g>
+    </g>
+    <g
+       id="g4414"
+       transform="translate(-17.208374,169.20054)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         transform="matrix(0.40376971,0,0,0.40376971,10.224312,46.067717)"
+         d="m 282.84271,151.81119 c 0,41.00505 -33.24116,74.24621 -74.24621,74.24621 -41.00506,0 -74.24622,-33.24116 -74.24622,-74.24621 0,-41.00505 33.24116,-74.246218 74.24622,-74.246218 41.00505,0 74.24621,33.241168 74.24621,74.246218 z"
+         sodipodi:ry="74.246216"
+         sodipodi:rx="74.246216"
+         sodipodi:cy="151.81119"
+         sodipodi:cx="208.5965"
+         id="path3757"
+         style="color:#000000;fill:#00aa00;fill-opacity:1;stroke:#000000;stroke-width:7.78166342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759"
+         y="115.9426"
+         x="79.238319"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;fill:#ffffff;fill-opacity:1"
+           y="115.9426"
+           x="79.238319"
+           id="tspan3761"
+           sodipodi:role="line">74</tspan></text>
+    </g>
+    <g
+       id="g4434"
+       transform="translate(-358.13486,335.37064)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         transform="matrix(0.40376971,0,0,0.40376971,351.1508,47.582946)"
+         d="m 282.84271,151.81119 c 0,41.00505 -33.24116,74.24621 -74.24621,74.24621 -41.00506,0 -74.24622,-33.24116 -74.24622,-74.24621 0,-41.00505 33.24116,-74.246218 74.24622,-74.246218 41.00505,0 74.24621,33.241168 74.24621,74.246218 z"
+         sodipodi:ry="74.246216"
+         sodipodi:rx="74.246216"
+         sodipodi:cy="151.81119"
+         sodipodi:cx="208.5965"
+         id="path3757-9"
+         style="color:#000000;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:7.78166342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759-3"
+         y="117.45783"
+         x="420.16479"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;fill:#ffffff;fill-opacity:1"
+           y="117.45783"
+           x="420.16479"
+           id="tspan3761-3"
+           sodipodi:role="line">80</tspan></text>
+    </g>
+    <g
+       id="g4429"
+       transform="translate(-273.28205,253.54829)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         transform="matrix(0.40376971,0,0,0.40376971,266.29799,45.562641)"
+         d="m 282.84271,151.81119 c 0,41.00505 -33.24116,74.24621 -74.24621,74.24621 -41.00506,0 -74.24622,-33.24116 -74.24622,-74.24621 0,-41.00505 33.24116,-74.246218 74.24622,-74.246218 41.00505,0 74.24621,33.241168 74.24621,74.246218 z"
+         sodipodi:ry="74.246216"
+         sodipodi:rx="74.246216"
+         sodipodi:cy="151.81119"
+         sodipodi:cx="208.5965"
+         id="path3757-8"
+         style="color:#000000;fill:#ff7700;fill-opacity:1;stroke:#000000;stroke-width:7.78166342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759-1"
+         y="115.43752"
+         x="335.31198"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;fill:#ffffff;fill-opacity:1"
+           y="115.43752"
+           x="335.31198"
+           id="tspan3761-9"
+           sodipodi:role="line">79</tspan></text>
+    </g>
+    <g
+       id="g4419"
+       transform="translate(-99.535815,86.873078)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         transform="matrix(0.40376971,0,0,0.40376971,92.551751,44.552488)"
+         d="m 282.84271,151.81119 c 0,41.00505 -33.24116,74.24621 -74.24621,74.24621 -41.00506,0 -74.24622,-33.24116 -74.24622,-74.24621 0,-41.00505 33.24116,-74.246218 74.24622,-74.246218 41.00505,0 74.24621,33.241168 74.24621,74.246218 z"
+         sodipodi:ry="74.246216"
+         sodipodi:rx="74.246216"
+         sodipodi:cy="151.81119"
+         sodipodi:cx="208.5965"
+         id="path3757-1"
+         style="color:#000000;fill:#00aaaa;fill-opacity:1;stroke:#000000;stroke-width:7.78166342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759-9"
+         y="114.42738"
+         x="161.56575"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;fill:#ffffff;fill-opacity:1"
+           y="114.42738"
+           x="161.56575"
+           id="tspan3761-7"
+           sodipodi:role="line">68</tspan></text>
+    </g>
+    <g
+       id="g4424"
+       transform="translate(-184.38862,2.6758471e-8)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         transform="matrix(0.40376971,0,0,0.40376971,177.40456,47.582946)"
+         d="m 282.84271,151.81119 c 0,41.00505 -33.24116,74.24621 -74.24621,74.24621 -41.00506,0 -74.24622,-33.24116 -74.24622,-74.24621 0,-41.00505 33.24116,-74.246218 74.24622,-74.246218 41.00505,0 74.24621,33.241168 74.24621,74.246218 z"
+         sodipodi:ry="74.246216"
+         sodipodi:rx="74.246216"
+         sodipodi:cy="151.81119"
+         sodipodi:cx="208.5965"
+         id="path3757-2"
+         style="color:#000000;fill:#0000aa;fill-opacity:1;stroke:#000000;stroke-width:7.78166342;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3759-2"
+         y="117.45783"
+         x="246.41856"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:24px;fill:#ffffff;fill-opacity:1"
+           y="117.45783"
+           x="246.41856"
+           id="tspan3761-8"
+           sodipodi:role="line">67</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="122.22846"
+       y="103.33137"
+       id="text4586"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4588"
+         x="122.22846"
+         y="103.33137"
+         style="font-size:22px">Critically</tspan><tspan
+         sodipodi:role="line"
+         x="122.22846"
+         y="130.83138"
+         id="tspan4590"
+         style="font-size:22px">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="121.30463"
+       y="200.5856"
+       id="text4586-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="121.30463"
+         y="200.5856"
+         id="tspan4590-3"
+         style="font-size:22px">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="121.30463"
+       y="284.76666"
+       id="text4586-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="121.30463"
+         y="284.76666"
+         id="tspan4590-6"
+         style="font-size:22px">Normal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="121.30463"
+       y="366.47702"
+       id="text4586-07"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="121.30463"
+         y="366.47702"
+         id="tspan4590-1"
+         style="font-size:22px">High</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="122.22846"
+       y="436.56967"
+       id="text4586-13"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4588-4"
+         x="122.22846"
+         y="436.56967"
+         style="font-size:22px">Critically</tspan><tspan
+         sodipodi:role="line"
+         x="122.22846"
+         y="464.06967"
+         id="tspan4590-38"
+         style="font-size:22px">High</tspan></text>
+    <g
+       id="g4733"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <rect
+         y="417.49945"
+         x="267.40796"
+         height="57.158455"
+         width="58.552563"
+         id="rect4700"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.16813254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4703"
+         y="460.65875"
+         x="282.41666"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:40px;fill:#ffffff;fill-opacity:1"
+           y="460.65875"
+           x="282.41666"
+           id="tspan4705"
+           sodipodi:role="line">B</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="348.25897"
+       y="558.39758"
+       id="text4707"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4709"
+         x="348.25897"
+         y="558.39758"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="336.13712"
+       y="440.53033"
+       id="text4711"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4713"
+         x="336.13712"
+         y="440.53033"
+         style="font-size:22px">Basestation</tspan><tspan
+         sodipodi:role="line"
+         x="336.13712"
+         y="468.03033"
+         id="tspan4715"
+         style="font-size:22px">Receiver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="45.314728"
+       y="59.361923"
+       id="text4717"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4719"
+         x="45.314728"
+         y="59.361923"
+         style="font-size:24px;font-weight:bold;-inkscape-font-specification:Sans Bold">Temperature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="159.6041"
+       y="12.915213"
+       id="text4721"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         id="tspan4723"
+         x="159.6041"
+         y="12.915213"> </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240,82.362183 0,379.999997"
+       id="path4738"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5071)"
+       d="m 470.41121,32.792916 9.39244,9.392439"
+       id="path4749"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5083)"
+       d="m 479.80365,32.792916 -9.39244,9.392439"
+       id="path4751"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Bulbs">
+    <g
+       id="g4224"
+       transform="matrix(1.8104093,0,0,1.8104093,135.27182,-645.52727)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4018-14-3-2"
+         d="m 78.990775,491.3037 c 2.811591,-2.81159 9.116981,-2.81159 11.928572,0 -1.12e-4,0.53721 0.214083,1.30167 -1.321703,1.96428 1.856976,0.62294 1.678349,3.06063 -1.67e-4,3.78572 1.464337,0.66965 1.321627,2.06499 1.32187,3.03571 -2.811591,2.8116 -9.116981,2.8116 -11.928572,0 -0.0072,-0.58614 -0.441498,-1.32575 1.054256,-1.85702 -1.447061,-0.68341 -1.518638,-2.76448 0.02909,-3.32163 -1.496246,-0.73372 -1.095457,-2.63393 -1.083349,-3.60706 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4018-1-2-2-8"
+         d="m 79.186465,491.44849 c 2.718923,-2.71893 8.816493,-2.71893 11.535416,0 -1.08e-4,0.5195 0.207027,1.25876 -1.278141,1.89954 1.795772,0.6024 1.623032,2.95975 -1.61e-4,3.66094 1.416074,0.64758 1.278067,1.99693 1.278302,2.93566 -2.718923,2.71892 -8.816493,2.71892 -11.535416,0 -0.007,-0.56683 -0.426947,-1.28206 1.019509,-1.79582 -1.399367,-0.66089 -1.468585,-2.67336 0.02813,-3.21216 -1.446931,-0.70953 -1.059352,-2.54711 -1.047643,-3.48816 z"
+         style="fill:url(#linearGradient4539);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ssscsssscs"
+         inkscape:connector-curvature="0"
+         d="m 74.024272,475.24387 c 0,-6.11851 4.710033,-11.07854 10.828542,-11.07854 6.118509,0 10.826004,4.96003 10.826004,11.07854 0,2.6039 -0.847835,4.69494 -2.510289,6.77851 -1.87839,2.82653 -2.387448,3.82078 -2.907547,5.8477 -0.243312,0.94823 -0.478466,2.72386 -1.076872,3.26478 -1.576137,1.42473 -7.844214,1.03641 -8.713148,-0.20904 -0.486263,-0.69696 -0.826456,-1.81611 -1.155847,-2.75795 -0.702288,-2.00808 -1.086124,-3.54211 -2.866025,-6.27103 -1.611347,-2.07371 -2.424818,-4.12131 -2.424818,-6.65297 z"
+         style="color:#000000;fill:none;stroke:url(#linearGradient4541);stroke-width:1.05509925;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5312-5-7);enable-background:accumulate"
+         id="path2999-4-4-3-1" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ssscsssscs"
+         inkscape:connector-curvature="0"
+         d="m 72.954671,475.03891 c 0,-6.57117 5.32698,-11.89815 11.898143,-11.89815 6.571163,0 11.898143,5.32698 11.898143,11.89815 0,2.79654 -0.964803,5.36773 -2.750246,7.60545 -2.017355,3.03564 -2.347098,4.15769 -2.905674,6.33456 -0.261312,1.01838 -0.513863,2.32869 -1.15654,2.90963 -1.692741,1.53013 -9.292444,1.16732 -10.225662,-0.17026 -0.522238,-0.74853 -0.731447,-1.60254 -1.085207,-2.61406 -0.754244,-2.15663 -1.118813,-3.6825 -3.030392,-6.61331 -1.730556,-2.22712 -2.642565,-4.73306 -2.642565,-7.45201 z"
+         style="color:#000000;fill:url(#radialGradient4543);fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.13315642;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path2999-1-3-2" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4236-58-8-1"
+         d="m 89.536865,497.01676 c -1.840104,0.13562 -7.273906,-0.79116 -9.255588,-1.98263 0.645098,1.73218 7.303058,2.57263 9.255588,1.98263 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4236-5-9-7-4"
+         d="m 89.536865,500.23188 c -1.840104,0.13562 -7.273906,-0.79115 -9.255588,-1.98262 0.645098,1.73218 7.303058,2.57263 9.255588,1.98262 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline" />
+    </g>
+    <g
+       id="g4320"
+       transform="matrix(1.7804504,0,0,1.7804504,139.23901,-263.16174)"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6">
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4018-14-3-2-6"
+         d="m 77.980622,345.84173 c 2.811591,-2.81159 9.116981,-2.81159 11.928572,0 -1.12e-4,0.53721 0.214083,1.30168 -1.321703,1.96429 1.856976,0.62293 1.678349,3.06063 -1.67e-4,3.78571 1.464337,0.66966 1.321627,2.06499 1.32187,3.03572 -2.811591,2.81159 -9.116981,2.81159 -11.928572,0 -0.0072,-0.58615 -0.441498,-1.32576 1.054256,-1.85702 -1.447061,-0.68342 -1.518638,-2.76448 0.02909,-3.32164 -1.496246,-0.73372 -1.095457,-2.63393 -1.083349,-3.60706 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4018-1-2-2-8-3"
+         d="m 78.176312,345.98652 c 2.718923,-2.71892 8.816493,-2.71892 11.535416,0 -1.08e-4,0.5195 0.207027,1.25877 -1.278141,1.89954 1.795772,0.60241 1.623032,2.95976 -1.61e-4,3.66094 1.416074,0.64759 1.278067,1.99693 1.278302,2.93566 -2.718923,2.71893 -8.816493,2.71893 -11.535416,0 -0.007,-0.56682 -0.426947,-1.28206 1.019509,-1.79581 -1.399367,-0.66089 -1.468585,-2.67337 0.02813,-3.21216 -1.446931,-0.70953 -1.059352,-2.54712 -1.047643,-3.48817 z"
+         style="fill:url(#linearGradient4545);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ssscsssscs"
+         inkscape:connector-curvature="0"
+         d="m 73.014119,329.78191 c 0,-6.11851 4.710033,-11.07855 10.828542,-11.07855 6.118509,0 10.826004,4.96004 10.826004,11.07855 0,2.6039 -0.847835,4.69493 -2.510289,6.77851 -1.87839,2.82652 -2.387448,3.82077 -2.907547,5.84769 -0.243312,0.94823 -0.478466,2.72386 -1.076872,3.26478 -1.576137,1.42473 -7.844214,1.03641 -8.713148,-0.20904 -0.486263,-0.69696 -0.826456,-1.81611 -1.155847,-2.75795 -0.702288,-2.00808 -1.086124,-3.54211 -2.866025,-6.27102 -1.611347,-2.07371 -2.424818,-4.12132 -2.424818,-6.65297 z"
+         style="color:#000000;fill:none;stroke:url(#linearGradient4547);stroke-width:1.05509925;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5312-5-7-6);enable-background:accumulate"
+         id="path2999-4-4-3-1-2" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ssscsssscs"
+         inkscape:connector-curvature="0"
+         d="m 71.944518,329.57694 c 0,-6.57116 5.32698,-11.89814 11.898143,-11.89814 6.571163,0 11.898143,5.32698 11.898143,11.89814 0,2.79654 -0.964803,5.36774 -2.750246,7.60546 -2.017355,3.03563 -2.347098,4.15768 -2.905674,6.33455 -0.261312,1.01839 -0.513863,2.32869 -1.15654,2.90963 -1.692741,1.53013 -9.292444,1.16733 -10.225662,-0.17026 -0.522238,-0.74852 -0.731447,-1.60254 -1.085207,-2.61405 -0.754244,-2.15664 -1.118813,-3.68251 -3.030392,-6.61331 -1.730556,-2.22713 -2.642565,-4.73307 -2.642565,-7.45202 z"
+         style="color:#000000;fill:url(#radialGradient4549);fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.13315642;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.89019608;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path2999-1-3-2-2" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4236-58-8-1-2"
+         d="m 88.526712,351.55479 c -1.840104,0.13562 -7.273906,-0.79115 -9.255588,-1.98262 0.645098,1.73218 7.303058,2.57263 9.255588,1.98262 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline" />
+      <path
+         inkscape:export-ydpi="144.36"
+         inkscape:export-xdpi="144.36"
+         inkscape:export-filename="/home/romoore/Desktop/bulb_dim.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4236-5-9-7-4-8"
+         d="m 88.526712,354.76992 c -1.840104,0.13562 -7.273906,-0.79116 -9.255588,-1.98263 0.645098,1.73218 7.303058,2.57263 9.255588,1.98263 z"
+         style="fill:#d59600;fill-opacity:1;stroke:#d59600;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="330.21295"
+       y="113.77486"
+       id="text4586-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="330.21295"
+         y="113.77486"
+         id="tspan4590-0"
+         style="font-size:22px">Lights</tspan><tspan
+         sodipodi:role="line"
+         x="330.21295"
+         y="141.27486"
+         style="font-size:22px"
+         id="tspan4668">Off</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="329.28912"
+       y="222.84912"
+       id="text4586-78"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="329.28912"
+         y="222.84912"
+         id="tspan4590-09"
+         style="font-size:22px">Lights</tspan><tspan
+         sodipodi:role="line"
+         x="329.28912"
+         y="250.34912"
+         style="font-size:22px"
+         id="tspan4683">Dim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="329.28912"
+       y="329.47949"
+       id="text4586-73"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/romoore/git/owl/las-demo/img/legend-600.png"
+       inkscape:export-xdpi="115.6"
+       inkscape:export-ydpi="115.6"><tspan
+         sodipodi:role="line"
+         x="329.28912"
+         y="329.47949"
+         id="tspan4590-5"
+         style="font-size:22px">Lights</tspan><tspan
+         sodipodi:role="line"
+         x="329.28912"
+         y="356.97949"
+         style="font-size:22px"
+         id="tspan4698">Bright</tspan></text>
+  </g>
+</svg>

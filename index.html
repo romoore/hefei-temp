@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE9">
+		<!--[if IE]>
+			<script type="text/javascript" src="js/excanvas.js"></script>
+		<![endif]-->
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="css/nprogress.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="css/basic.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="css/rooms.css" media="all" />
+		<title>Owl Platform @ Hefei University of Technology</title>
+	</head>
+	<body>
+		<div id="content" class="centered">
+			<h2>Owl Platform @ Hefei University of Technology</h2>
+			<div id="legend-container">
+				<img id="legend-img" src="img/legend-600.png" width="600" height="599" alt="Map Legend" title="Map Legend" />
+			</div>
+			<div id="image-container">
+				<div id="legend-title"><a id="legend-click" href="javascript:">Legend</a></div>
+				<img id="img-main-floor" src="img/hefei.png" width="802" height="760"></img>
+			</div>
+			<h2 id="temp-chart-head" class="invisible"></h2>
+			<ul id="chart-range-list" class="invisible">
+				<li><a id="chart-range-hour" href="javascript:;">1 Hour</a></li>
+				<li><a id="chart-range-12hour" href="javascript:;">12 Hours</a></li>
+				<li><a id="chart-range-day" href="javascript:;">24 Hours</a></li>
+				<li><a id="chart-range-week" href="javascript:;">7 Days</a></li>
+				<li><a id="chart-range-month" href="javascript:;">4 Weeks</a></li>
+			</ul>
+			<div id="temp-chart-tips" class="invisible">Click and drag to zoom.
+				Shift-click to scroll left and right. Double-click to reset zoom.
+			</div>
+			<div id="temp-chart" class="chart invisible"></div>
+			<div id="light-chart-container" class="invisible">
+				<h3>Average Light by Hour</h3>
+				<div id="light-chart"></div>
+				<div id="hour-12">Noon</div>
+				<div id="hour-6">6AM</div>
+				<div id="hour-0">Midnight</div>
+				<div id="hour-18">6PM</div>
+			</div>
+			<div id="logo-container">
+				<img src="img/logo_hfut.png" class="logo" />
+				<img src="img/logo_inpoint.png" class="logo" />
+				<img src="img/logo_built_owl.png" class="logo" />
+				<img src="img/logo_ru.gif" class="logo" />
+		</div>
+		</div>
+
+		<!-- Javascript -->
+		<script type="text/javascript" src="js/jquery.js"></script><!-- jQuery -->
+		<script type="text/javascript" src="js/nprogress.js"></script> <!-- Lightweight progress bar -->
+		<script type="text/javascript" src="js/moment.js"></script><!-- Time parsing library -->
+		<script type="text/javascript" src="js/dygraph.js"></script><!-- Dygraph library -->
+		<script type="text/javascript" src="js/jquery.sparkline.js"></script> <!-- Pie chart library -->
+		<script type="text/javascript" src="js/hefeidemo.js"></script><!-- This app -->
+	</body>
+</html>
